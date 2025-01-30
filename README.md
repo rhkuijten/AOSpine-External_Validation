@@ -12,8 +12,9 @@ The goal of this project was to rigorously assess the accuracy and reliability o
 
 - `1. Imputation.ipynb`: Jupyter notebook detailing the imputation methods used to handle missing data within the study dataset.
 - `2. Scoring results.ipynb`: Jupyter notebook presenting the scoring results of the predictive models evaluated.
-- `3. PathFx Webscraper.py`: Python script for web scraping necessary data using the PathFx tool.
-- `4. Validation.ipynb`: Jupyter notebook outlining the validation measures employed to assess the performance of each predictive model.
+- `3. PathFx Webscraper.py`: Python script for web scraping probability outputs of the PathFx model.
+- `4. SORG-MLA Webscraper.py`: Python script for web scraping probability outputs of the SORG-MLA model.
+- `5. Validation.ipynb`: Jupyter notebook outlining the validation measures employed to assess the performance of each predictive model.
 
 ### Results
 
